@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: By The Reins
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Maxine's personal portfolio site
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -38,7 +38,7 @@ avatar: "https://github.com/TheLadyJack/TheLadyJack.github.io/blob/master/prof%2
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#9c8443"
+navbar-col: "#8c8443"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#c3dee8"
@@ -68,8 +68,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
+  email: "Maxine.e.Morey.com"
+  facebook:
   github: daattali
   twitter: daattali
 #  reddit: yourname
@@ -88,7 +88,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
