@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lambda Unit One presentation
+image: https://cdn-images-1.medium.com/max/800/1*iDlrrQOIhSndDLJ5oWlRbw.png
 ---
 
 
